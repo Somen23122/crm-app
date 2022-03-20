@@ -13,4 +13,7 @@ def create_lead():
 def update_lead():
   print "Lead updated successfully."
 
-  
+
+# Delete Lead
+def delete_Lead():
+  print "Lead deleted successfully"
